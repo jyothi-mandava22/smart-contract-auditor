@@ -1,6 +1,6 @@
 # 🔐 Smart Contract Auditor
 
-> AI-powered Solidity Smart Contract Security Auditor using **Google Gemini 1.5 Flash**.
+> AI-powered Solidity Smart Contract Security Auditor using **Google Gemini 3.8 Flash**.
 
 Analyze Solidity smart contracts before deployment, detect common security vulnerabilities, calculate an overall security risk score, and generate detailed audit reports with AI-powered recommendations.
 
